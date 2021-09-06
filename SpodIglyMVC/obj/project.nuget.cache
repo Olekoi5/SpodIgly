@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwJhpK67jjB9yxMefO/8XFRLZlpojZIjksOJyc+TxyU/UyJeR2SF8Z7A9MT71evrXeR6UYHq2wQlvEPJeD2Whw==",
+  "dgSpecHash": "yytoqxP6ipT+xzhzpGs9pguOtqd8ofEt0XXdn1FGJWeIv0k8JWvk64/bgac68i4EEanJ1MoSZH+UG/fljOPLPA==",
   "success": true,
-  "projectFilePath": "D:\\SpodIglyRepo\\SpodIglyMVC\\SpodIglyMVC.csproj",
+  "projectFilePath": "D:\\SpodiglyRepo\\SpodIglyMVC\\SpodIglyMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gondo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.6\\microsoft.aspnetcore.mvc.razor.extensions.5.0.6.nupkg.sha512",
     "C:\\Users\\Gondo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.6\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.6.nupkg.sha512",
