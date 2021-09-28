@@ -743,11 +743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SpodIglyRepo\\SpodIglyMVC\\SpodIglyMVC.csproj",
+      "projectUniqueName": "D:\\SpodiglyRepo\\SpodIglyMVC\\SpodIglyMVC.csproj",
       "projectName": "SpodIglyMVC",
-      "projectPath": "D:\\SpodIglyRepo\\SpodIglyMVC\\SpodIglyMVC.csproj",
+      "projectPath": "D:\\SpodiglyRepo\\SpodIglyMVC\\SpodIglyMVC.csproj",
       "packagesPath": "C:\\Users\\Gondo\\.nuget\\packages\\",
-      "outputPath": "D:\\SpodIglyRepo\\SpodIglyMVC\\obj\\",
+      "outputPath": "D:\\SpodiglyRepo\\SpodIglyMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

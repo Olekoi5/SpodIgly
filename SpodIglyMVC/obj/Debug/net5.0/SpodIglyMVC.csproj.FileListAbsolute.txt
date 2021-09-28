@@ -355,3 +355,7 @@ D:\SpodIglyRepo\SpodIglyMVC\obj\Debug\net5.0\SpodIglyMVC.dll
 D:\SpodIglyRepo\SpodIglyMVC\obj\Debug\net5.0\ref\SpodIglyMVC.dll
 D:\SpodIglyRepo\SpodIglyMVC\obj\Debug\net5.0\SpodIglyMVC.pdb
 D:\SpodIglyRepo\SpodIglyMVC\obj\Debug\net5.0\SpodIglyMVC.genruntimeconfig.cache
+D:\SpodiglyRepo\SpodIglyMVC\obj\Debug\net5.0\Razor\Views\Store\Kontakt.cshtml.g.cs
+D:\SpodiglyRepo\SpodIglyMVC\obj\Debug\net5.0\Razor\Views\Store\Onas.cshtml.g.cs
+D:\SpodiglyRepo\SpodIglyMVC\obj\Debug\net5.0\Razor\Views\Store\Regulamin.cshtml.g.cs
+D:\SpodiglyRepo\SpodIglyMVC\obj\Debug\net5.0\Razor\Views\Store\Wysylka.cshtml.g.cs
