@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -12,9 +13,11 @@ namespace SpodIglyMVC.Models
         public string AlbumTitle { get; set; }
         public string ArtistName { get; set; }
         public DateTime DateAdd { get; set; }
-        public string CovertFileName { get; set; }
         public string Description { get; set; }
+
+        [Column(TypeName = "decimal(18,2)")]
         public decimal Price { get; set; }
+
         public bool IsBestseller { get; set; }
         public bool IsMidden { get; set; }
 

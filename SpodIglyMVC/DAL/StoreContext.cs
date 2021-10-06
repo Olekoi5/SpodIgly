@@ -11,7 +11,7 @@ namespace SpodIglyMVC.DAL
     {
         public StoreContext(DbContextOptions<StoreContext> options) : base(options)
         {
-
+            
         }
 
         public DbSet<Album> Albums { get; set; }

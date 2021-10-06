@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -28,7 +29,10 @@ namespace SpodIglyMVC.Models
         public string Coment { get; set; }
         public DateTime DateCreated { get; set; }
         public OrderState OrderState { get; set; }
+
+        [Column(TypeName = "decimal(18,2)")]
         public decimal TotalPrice { get; set; }
+
         public List<OrderItem> OrderItems { get; set; }
     }
 
